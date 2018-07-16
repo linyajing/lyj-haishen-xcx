@@ -17,12 +17,12 @@ Page({
             image: '../../common/images/wx_6.jpg',
             name: '家庭自用',
             price: 388,
-            tag: ['高刺', '高发泡率', '高性价比'] 
+            tag: ['自用', '方便', '快捷'] 
          }, {
             image: '../../common/images/wx_7.jpg',
             name: '高档礼品',
             price: 588,
-            tag: ['纯淡干', '自然', '无添加'] 
+            tag: ['高档', '精品', '送健康'] 
          }]
     },
     onLoad () {
