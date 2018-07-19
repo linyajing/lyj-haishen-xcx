@@ -1,7 +1,7 @@
 {
   "pages":[
     "pages/main/index",
-    "pages/topic/index",
+    "pages/active/index",
     "pages/my/index"
   ],
   "window":{
@@ -28,8 +28,8 @@
       {
         "iconPath": "common/images/3.png",
         "selectedIconPath": "common/images/4.png",
-        "pagePath": "pages/topic/index",
-        "text": "话题"
+        "pagePath": "pages/active/index",
+        "text": "活动"
       },
       {
         "iconPath": "common/images/5.png",

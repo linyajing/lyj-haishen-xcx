@@ -1,0 +1,11 @@
+.footer {
+  font-size: 24rpx;
+  padding: 0 40rpx; }
+  .footer .tel {
+    display: flex;
+    justify-content: space-around; }
+  .footer .end {
+    text-align: center;
+    color: #ccc;
+    padding-top: 30rpx;
+    padding-bottom: 30rpx; }

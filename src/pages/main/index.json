@@ -1,3 +1,6 @@
 {
-    "navigationBarTitleText": "天悦海参文化"
+    "navigationBarTitleText": "天悦海参文化",
+    "usingComponents": {
+        "foot": "../components/foot/index"
+    }
 }

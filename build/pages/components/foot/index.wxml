@@ -1,0 +1,7 @@
+<view class="footer">
+    <view class="tel">
+        <view>电话: 15101076107</view>
+        <view>微信: liu1129760853</view>
+    </view>
+    <view class="end">. End .</view>
+</view>

@@ -17,9 +17,9 @@ Page({
       console.log('onUnload');
   },
   onPullDownRefresh () {
-      console.log('下拉刷新');
+      console.log('活动页下拉刷新');
   },
   onReachBottom () {
-      console.log('列表页上拉触底');
+      console.log('活动页上拉触底');
   }
 });
